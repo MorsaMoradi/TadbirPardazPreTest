@@ -56,7 +56,6 @@ namespace TadbirPardazPreTest.Api.Controllers
         {
             UserModel user = null;
 
-            //Validate the User Credentials    
             //Demo Purpose, I have Passed HardCoded User Information    
             if (login.Username == "morsa")
             {
